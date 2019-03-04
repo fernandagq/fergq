@@ -31,16 +31,16 @@ class NavBar extends Component {
           <Collapse isOpen={!this.state.collapsed} navbar>
             <Nav navbar>
               <NavItem>
-                <NavLink href="/fergq/projects">Projects</NavLink>
+              <Link to="/projects"  className="nav-link">Projects</Link>
               </NavItem>
               <NavItem>
-                <NavLink href="/fergq/resume">Resume</NavLink>
+              <Link to="/resume" className="nav-link">Resume</Link>
               </NavItem>
               <NavItem>
-                <NavLink href="/fergq/contact">Contact</NavLink>
+              <Link to="/contact"  className="nav-link">Contact</Link>
               </NavItem>
               <NavItem>
-                <NavLink href="/fergq/about">About</NavLink>
+              <Link to="/about"  className="nav-link">About</Link>
               </NavItem>
             </Nav>
           </Collapse>
