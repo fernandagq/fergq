@@ -34,13 +34,13 @@ class NavBar extends Component {
                 <NavLink href="/fergq">Home</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="/resume">Resume</NavLink>
+                <NavLink href="/fergq/resume">Resume</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="/contact">Contact</NavLink>
+                <NavLink href="/fergq/contact">Contact</NavLink>
               </NavItem>
               <NavItem>
-                <NavLink href="/projects">Projects</NavLink>
+                <NavLink href="/fergq/projects">Projects</NavLink>
               </NavItem>
             </Nav>
           </Collapse>
