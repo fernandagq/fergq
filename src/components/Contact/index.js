@@ -21,7 +21,7 @@ function Contact() {
                                         <div className="contact">
                                             <div id="contactTitle"><p>Contact Me</p></div>
                                             <form method="POST" action="https://formspree.io/fgarcia@email.wm.edu">
-                                            <input type="hidden" name="_next" value="/" /> 
+                                            <input type="hidden" name="_next" value="/fergq" /> 
                                                 <div className="form-group">
                                                     <label for="exampleFormControlInput1">Name</label>
                                                     <input type="name" name="name" className="form-control" id="exampleFormControlInput1" placeholder="Fernanda Garcia"></input>
