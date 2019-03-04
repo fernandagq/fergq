@@ -4,14 +4,13 @@ input{
 
 .contact{
     width:100%;
-    background-color: rgb(243, 243, 239);
     padding: 40px;
     color: teal;
+    border: solid rgb(228, 232, 236) 40px;
 }
 
 #contactTitle{
-    text-shadow: 2px 2px pink;
-    color: rgb(128, 187, 113) !important;
+    color: rgb(149, 177, 161)!important;
     font-weight: bold !important;
     letter-spacing: 2px;
     text-transform: uppercase;
