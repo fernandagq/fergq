@@ -1,0 +1,90 @@
+#aboutContainer{
+    background: rgb(53, 46, 46);
+    /* background: url(../img/aboutBackground.jpg)no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 10px;; */
+    
+}
+.jumbotron.jumbotron-fluid{
+    width: 100%;
+    height: 720px;
+    margin: 0px !important;
+    padding: 0px !important;
+    background-color: transparent !important;
+    box-shadow: 0 4px 8px 0 rgba(176, 199, 73, 0.658), 0 6px 20px 0 rgba(204, 240, 75, 0.685);
+    
+}
+
+
+#aboutImage{
+    background: url(../img/aboutImg.jpg)no-repeat center ; 
+    -webkit-background-size: cover;
+    height: 300px;
+    width: 300px;
+    margin: 0px !important;
+    padding: 0px !important;
+    border-radius: 8px;
+
+
+}
+
+#aboutImage2{
+    background: url(../img/aboutImgN.JPG)no-repeat center; 
+    -webkit-background-size: cover;
+    height: 300px;
+    width: 300px;
+    margin: 0px !important;
+    padding: 0px !important;
+    shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transform: rotate(90deg);
+    border-radius: 8px;
+
+
+}
+
+#aboutImage3{
+    background: url(../img/aboutImg3.jpg)no-repeat center; 
+    -webkit-background-size: cover;
+    height: 300px;
+    width: 300px;
+    margin: 0px !important;
+    padding: 0px !important;
+    shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 8px;
+
+
+}
+
+#cardOne{
+    width: 300px;
+    height: 400px;
+    margin: 0px !important;
+    padding: 0px !important;
+    background-color: white !important;
+    color: teal;
+    text-align:center
+}
+ #cardTwo{
+    width: 300px;
+    height: 280px;
+    margin: 0px !important;
+    padding: 0px !important;
+    background-color: white !important;
+    color: salmon;
+    text-align:center
+
+ }
+ 
+ #cardThree{
+    width: 300px;
+    height: 250px;
+    margin: 0px !important;
+    padding: 0px !important;
+    background-color: white !important;
+    color:salmon;
+    text-align:center
+
+ }

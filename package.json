@@ -4,9 +4,13 @@
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
+    "radium": "^0.25.1",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
-    "react-scripts": "2.1.5"
+    "react-pdf": "^4.0.5",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.5",
+    "reactstrap": "^7.1.0"
   },
   "homepage": "https://fernandagq.github.io/fergq",
   "scripts": {

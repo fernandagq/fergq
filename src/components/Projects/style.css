@@ -1,0 +1,10 @@
+#wordscape, #dogMatch, #face{
+    color: teal;
+}
+
+#logoCont{
+    background: transparent !important;
+    text-align:center;
+    padding-left: 20%;
+    padding-top: 10%;
+}
