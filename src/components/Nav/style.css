@@ -25,6 +25,10 @@ li{
 
 a.nav-link:hover{
     color:silver !important;
+    
+}
+.nav-link{
+  font-family: sans-serif !important;
 }
 
   .navbar-trans {
