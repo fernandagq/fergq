@@ -15,19 +15,19 @@ function MainTwo() {
                 <div className="row">
                     <div className="col-md-3">
                     <img className="mernStack" src={Mongo}></img>
-                    <p>M</p>
+                    <p>MongoDB</p>
                     </div>
                     <div className="col-md-3">
                     <img className="mernStack" src={Express}></img>
-                    <p>E</p>
+                    <p>Express.js</p>
                     </div>
                     <div className="col-md-3">
                     <img className="mernStack" src={ReactLogo}></img>
-                    <p>R</p>
+                    <p>React.js</p>
                     </div>
                     <div className="col-md-3">
                     <img className="mernStack" src={Node}></img>
-                    <p>N</p>
+                    <p>Node.js</p>
                     </div>
                 </div>
             </div>
