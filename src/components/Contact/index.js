@@ -5,7 +5,7 @@ import "./style.css"
 function Contact() {
     return (
 
-        <div id="mainContainer">
+        <div id="contactContainer">
             <div className="container">
                 <div className="row">
                     <div className="col-md-2">

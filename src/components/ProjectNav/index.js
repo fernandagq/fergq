@@ -46,10 +46,10 @@ class NavBar extends Component {
           </Collapse>
         </Navbar>
     </div>
-    <div className="col-md-8">
+    <div className="col-md-6">
             <nav className="navbar navbar-trans navbar-expand-lg navbar-light bg-clear" id="homeNav">
                 <div className="collapse navbar-collapse" id="navbarTogglerDemo02">
-                    <ul className="navbar-nav mr-auto mt-2 mt-lg-0">
+                    <ul className="navbar-nav ml-auto mt-2 mt-lg-0">
                         <li className="nav-item">
                             <Link to="/" id="homeProjects" className="nav-link">Home</Link>
                         </li>
