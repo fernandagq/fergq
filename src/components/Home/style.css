@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Kristi');
+
+
 #mainContainer{
   /* background: url(../img/background2.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
@@ -8,13 +11,33 @@
 }
 
 
+
 #mainImage{
-  background: url(../img/img1.jpg) no-repeat center center fixed;
+  background: url(../img/img1.jpg) no-repeat ;
   height:550px;
   width: 100% !important;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  border-radius: 8px;
+  /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+  /* border-radius: 8px; */
+  overflow: hidden;
+  margin: 0px;
+  padding: 0px;
+  /* border: black solid 50px; */
+}
 
+.col-md-4{
+  text-align:center;
+  color:white;
+  font-size: 20px;
+  font-family: 'Kristi';
+  
+
+}
+
+
+#homeContainer{
+  background-color: #ffe0cf;
+  margin-bottom: 50px;
+  border: solid black 20px;
 }
 
 #myInfo{

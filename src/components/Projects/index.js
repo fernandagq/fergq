@@ -5,7 +5,7 @@ import "./style.css"
 function HomeComponentThree() {
   return (
 
-    <div id="mainContainer">
+    <div id="pContainer">
       <div className="card-columns">
         <div className="card">
           <a href="https://fernandagq.github.io/Wordscape/" id="wordscapeProj"><img className="card-img-top" src={require('../img/wordscrape.jpg')} alt="Card image cap"></img></a>

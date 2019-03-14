@@ -25,7 +25,7 @@ class NavBar extends Component {
         <div id="mainContainer">
         <div className="container">
   <div className="row">
-    <div id="extraNav" className="col-md-2">
+    <div id="extraNav" className="col-md-4">
     <Navbar color="faded" light>
           <NavbarToggler onClick={this.toggleNavbar} className="mr-2" />
           <Collapse isOpen={!this.state.collapsed} navbar>
@@ -49,7 +49,7 @@ class NavBar extends Component {
     <div className="col-md-8">
             <nav className="navbar navbar-trans navbar-expand-lg navbar-light bg-clear" id="homeNav">
                 <div className="collapse navbar-collapse" id="navbarTogglerDemo02">
-                    <ul className="navbar-nav ml-auto mt-2 mt-lg-0">
+                    <ul className="navbar-nav mr-auto mt-2 mt-lg-0">
                         <li className="nav-item">
                             <Link to="/projects" id="homeProjects" className="nav-link">Projects</Link>
                         </li>
@@ -67,8 +67,7 @@ class NavBar extends Component {
             </nav>
         </div>
     </div>
-    <div className="col-md-2">
-    </div>
+    
   </div>
 </div>
     );

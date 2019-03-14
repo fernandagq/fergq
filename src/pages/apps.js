@@ -1,18 +1,21 @@
 import React from "react";
 import ProjectNav from "../components/ProjectNav"
 import Projects from "../components/Projects"
-import Header from "../components/Header"
+import Footer from "../components/mainTwo"
+import HeaderTwo from "../components/HeaderTwo"
 
 
 
-function Home () {
+
+function Apps () {
     return (
     <div>
+        <HeaderTwo/>
         <ProjectNav/>
         <Projects/>
-        <Header/>
+        <Footer/>
     </div>
     )
 }
 
-export default Home;
+export default Apps;

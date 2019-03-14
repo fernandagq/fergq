@@ -1,15 +1,17 @@
 import React from "react";
-import Main from "../components/Home"
+import Main from "../components/mainTwo/index"
 import Nav from "../components/Nav"
-import Footer from "../components/Header"
+import Header from "../components/HeaderTwo"
+import MainImage from "../components/Home"
 
 
 
 function Home () {
     return (
     <div>
-        <Footer/>
+        <Header/>
         <Nav/>
+        <MainImage/>
         <Main/>
     </div>
     )

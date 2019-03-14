@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Kristi');
+@import url('https://fonts.googleapis.com/css?family=Julius+Sans+One');
+
+.card-header{
+    background-color: #ffe0cf;
+    font-family: "Kristi";
+    font-size: 70px;
+    font-weight: bold;
+    border: solid black 20px
+}
+
+.title{
+    font-family: 'Julius Sans One';
+    font-size: 20px;
+}
+
+#headerInfo{
+    padding-left: 11%;
+}

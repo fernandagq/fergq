@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Kristi');
+
+
+.mernStack{
+    height: 200px;
+    width: auto;
+}
+
+#mainTwoContainer{
+    background-color: #ffe0cf;
+    border: solid black 20px;
+    padding: 20px;
+}
+
+.col-md-3{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    font-family: 'Kristi';
+    font-weight: bold;
+    
+}

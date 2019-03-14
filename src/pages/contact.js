@@ -1,13 +1,15 @@
 import React from "react";
 import ContactInfo from "../components/Contact"
 import ContactNav from "../components/ContactNav"
-import Footer from "../components/Header"
+import Header from "../components/HeaderTwo"
+import Footer from "../components/mainTwo"
 
 
 
 function Contact () {
     return (
     <div>
+        <Header/>
         <ContactNav/>
         <ContactInfo/>
         <Footer/>

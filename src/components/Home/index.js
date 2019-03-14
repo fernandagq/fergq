@@ -6,16 +6,16 @@ import { Link } from 'react-router-dom';
 function HomeComponentOne() {
     return (
 
-        <div id="mainContainer">
-            <div className="container">
+        <div id="homeContainer">
                 <div className="row">
-                    <div className="col-md-2">
+                <div id="sideImage"className="col-md-2">
                     </div>
-                    <div className="col-md-8">
-                        <Link to="/about"><div id="mainImage"></div></Link>
+                    <div id="mainImage" className="col-md-8">
+                    </div>
+                    <div id="sideImage"className="col-md-2">
                     </div>
                 </div>
-            </div>
+
         </div>
 
     );

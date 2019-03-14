@@ -3,15 +3,23 @@
     width:100% !important;
     height: 100% !important;
     text-align: center;
+    /* border: solid black 20px; */
   }
 
 a#homeProjects, a#homeContact, a#homeResume, #homeAbout{
-    text-shadow: 2px 2px pink;
+    /* text-shadow: 2px 2px pink;
     color: teal !important;
     font-weight: bold !important;
     text-transform: uppercase;
     font-family: 'Prompt', sans-serif;
-    font-size: 35px
+    font-size: 35px */
+    color:goldenrod;
+    text-transform: uppercase;
+
+}
+
+li{
+  float: right;
 
 }
 
