@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "5aee3e1ae279a57569ba",
-    "url": "/fergq/static/css/main.59047d17.chunk.css"
+    "revision": "9dd758ece7e92286c9e4",
+    "url": "/fergq/static/css/main.485b56e4.chunk.css"
   },
   {
-    "revision": "5aee3e1ae279a57569ba",
-    "url": "/fergq/static/js/main.5aee3e1a.chunk.js"
+    "revision": "9dd758ece7e92286c9e4",
+    "url": "/fergq/static/js/main.9dd758ec.chunk.js"
   },
   {
     "revision": "54bf4602b4571abe847f",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/fergq/static/media/resume.250028ef.jpg"
   },
   {
-    "revision": "7e73e4508f76cdd1ff3578e6937227a1",
+    "revision": "702742a51b250d90d7f7f4264d6be463",
     "url": "/fergq/index.html"
   }
 ];
