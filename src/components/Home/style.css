@@ -13,7 +13,7 @@
 
 
 #mainImage{
-  background: url(../img/img1.jpg) no-repeat ;
+  background: url(../img/img1.jpg) no-repeat;
   height:550px;
   width: 100% !important;
   /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
@@ -75,7 +75,7 @@
   to {left: 100px;}
 } */
 
-@media screen and (max-width: 900px){
+/* @media screen and (max-width: 900px){
   #mainImage{
     background: url(../img/img1.jpg) no-repeat center center fixed;
     height:450px;
@@ -85,6 +85,6 @@
     background-attachment: fixed;
 
 }
-}
+} */
 
 
