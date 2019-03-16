@@ -3,7 +3,7 @@ import "./style.css"
 
 function About() {
   return (
-    <div id="mainContainer">
+    <div id="aboutContainer">
       <div className="container">
         <div className="row">
           <div className="col-md-4">
@@ -29,7 +29,7 @@ function About() {
             </div>
             <div id="cardOne" className="card">
               <div className="card-body">
-                <h5 className="card-title">Full Stack Web Developer</h5>
+                <h5 className="card-title">Web Developer</h5>
                 <h6 className="card-subtitle mb-2 text-muted">Siblings: Alejandro, Natalia, and Alan</h6>
                 <p className="card-text">When I realized I could create apps to solve simple problems for my family, it became more of a passion than a lukewarm interest.  <a href="https://fernandagq.github.io/Wordscape/" className="card-link">Wordscape</a>, my first collaborative group project was inspired by my little brother's dysgraphia. Tired of seeing him struggle to study his vocabulary words for school, I came up with an idea that would alleviate some of his stress.</p>
                

@@ -25,49 +25,31 @@ class NavBar extends Component {
         <div id="mainContainer">
         <div className="container">
   <div className="row">
-    <div id="extraNav" className="col-md-2">
+  <div className="col-md-4">
+        </div>
+    <div id="Nav" className="col-md-4">
     <Navbar color="faded" light expand="sm">
-          <NavbarToggler onClick={this.toggleNavbar} className="mr-2" />
+          <NavbarToggler onClick={this.toggleNavbar} />
           <Collapse isOpen={!this.state.collapsed} navbar>
             <Nav navbar>
               <NavItem>
-              <Link to="/" className="nav-link">Home</Link>
+              <Link to="/"  className="nav-link">Home</Link>
               </NavItem>
               <NavItem>
-              <Link to="/resume" className="nav-link">Resume</Link>
+              <Link to="/resume"  className="nav-link">Resume</Link>
+              </NavItem>
+              <NavItem>
+                <Link to="/about"  className="nav-link">About</Link>
               </NavItem>
               <NavItem>
               <Link to="/projects"  className="nav-link">Projects</Link>
-              </NavItem>
-              <NavItem>
-              <Link to="/about"  className="nav-link">About Me</Link>
               </NavItem>
             </Nav>
           </Collapse>
         </Navbar>
     </div>
-    <div className="col-md-6">
-            <nav className="navbar navbar-trans navbar-expand-lg navbar-light bg-clear" id="homeNav">
-                <div className="collapse navbar-collapse" id="navbarTogglerDemo02">
-                    <ul className="navbar-nav ml-auto mt-2 mt-lg-0">
-                        <li className="nav-item">
-                            <Link to="/" id="homeProjects" className="nav-link">Home</Link>
-                        </li>
-                        <li className="nav-item">
-                            <Link to="/resume" id="homeResume" className="nav-link">Resume</Link>
-                        </li>
-                        <li className="nav-item">
-                            <Link to="/projects" id="homeContact" className="nav-link">Projects</Link>
-                        </li>
-                        <li className="nav-item">
-                            <Link to="/about" id="homeContact" className="nav-link">About Me</Link>
-                        </li>
-                    </ul>
-                </div>
-            </nav>
-        </div>
     </div>
-    <div className="col-md-2">
+    <div className="col-md-4">
     </div>
   </div>
 </div>

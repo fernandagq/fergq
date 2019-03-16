@@ -1,4 +1,7 @@
-#homeNav {
+@import url('https://fonts.googleapis.com/css?family=Julius+Sans+One');
+
+
+#Nav {
     background-color: transparent !important;
     width:100% !important;
     height: 100% !important;
@@ -6,29 +9,15 @@
     /* border: solid black 20px; */
   }
 
-a#homeProjects, a#homeContact, a#homeResume, #homeAbout{
-    /* text-shadow: 2px 2px pink;
-    color: teal !important;
-    font-weight: bold !important;
-    text-transform: uppercase;
-    font-family: 'Prompt', sans-serif;
-    font-size: 35px */
-    color:goldenrod;
-    text-transform: uppercase;
-
-}
-
-li{
-  float: right;
-
-}
 
 a.nav-link:hover{
     color:silver !important;
     
 }
 .nav-link{
-  font-family: sans-serif !important;
+  font-family: 'Julius Sans One' !important;
+  color: goldenrod !important;
+  font-weight: bold;
 }
 
   .navbar-trans {
