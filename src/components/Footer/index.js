@@ -60,7 +60,7 @@ class Footer extends Component {
                                         Stay Connected
                                 </h5>
                                     <li>
-                                        <a href="linkedin.com/in/fernanda-garcia-682098137"><img src={LinkedIn} className="connectFooter"></img></a>
+                                        <a href="https://www.linkedin.com/in/fernanda-garcia-682098137/"><img src={LinkedIn} className="connectFooter"></img></a>
                                         <a href="https://github.com/fernandagq" ><img src={Github} className="connectFooter"></img></a>
                                         <a href="mailto:fernandagq1@gmail.com"><img src={Email} className="connectFooter"></img></a>
                                     </li>
