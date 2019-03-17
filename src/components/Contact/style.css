@@ -22,3 +22,8 @@ input{
     border: solid black 20px;
     margin-bottom: 50px;
 }
+
+.submit{
+    background-color: black;
+    color: white;
+}
