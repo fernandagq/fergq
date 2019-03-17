@@ -1,19 +1,43 @@
 self.__precacheManifest = [
   {
-    "revision": "d4da09da4a57d2236dec",
-    "url": "/fergq/static/css/main.1d416bbf.chunk.css"
+    "revision": "04bdd75057b7dd16c218",
+    "url": "/fergq/static/css/main.7fd635f2.chunk.css"
   },
   {
-    "revision": "d4da09da4a57d2236dec",
-    "url": "/fergq/static/js/main.d4da09da.chunk.js"
+    "revision": "04bdd75057b7dd16c218",
+    "url": "/fergq/static/js/main.04bdd750.chunk.js"
   },
   {
     "revision": "54bf4602b4571abe847f",
     "url": "/fergq/static/js/runtime~main.54bf4602.js"
   },
   {
-    "revision": "a9b9bb4d805cc60480ad",
-    "url": "/fergq/static/js/2.a9b9bb4d.chunk.js"
+    "revision": "f35d0cab87340f1e8ce3",
+    "url": "/fergq/static/js/2.f35d0cab.chunk.js"
+  },
+  {
+    "revision": "f879bd5cb94c4f3a8dd866350aa12305",
+    "url": "/fergq/static/media/bootstrap.f879bd5c.jpg"
+  },
+  {
+    "revision": "ad1b6906d0ae46941b6cf3423eb51ffc",
+    "url": "/fergq/static/media/jquery.ad1b6906.jpg"
+  },
+  {
+    "revision": "9edcb5106c553737a172ec833810fe2e",
+    "url": "/fergq/static/media/jest.9edcb510.jpg"
+  },
+  {
+    "revision": "46dc03d3da0344213bf90cb95bd51924",
+    "url": "/fergq/static/media/javascript.46dc03d3.jpg"
+  },
+  {
+    "revision": "2be9414d73ba06534ec551c8e6d9d6a3",
+    "url": "/fergq/static/media/mysql.2be9414d.jpg"
+  },
+  {
+    "revision": "454a400ca987d4271e54045982ea3876",
+    "url": "/fergq/static/media/html5.454a400c.jpg"
   },
   {
     "revision": "f812c01006a3dac1f9a5abd3146c2336",
@@ -64,11 +88,11 @@ self.__precacheManifest = [
     "url": "/fergq/static/media/img1.4f6baa20.jpg"
   },
   {
-    "revision": "8c2cc9f62554a9d60ae01ca45f9eaca0",
-    "url": "/fergq/static/media/resume.8c2cc9f6.jpg"
+    "revision": "6044ef45415c1b62d1bd25a0a919950e",
+    "url": "/fergq/static/media/resume.6044ef45.jpg"
   },
   {
-    "revision": "dcd715c9e2edb25eb505e798db852e14",
+    "revision": "5f3ae71c25a0271594ac0e114e8783b0",
     "url": "/fergq/index.html"
   }
 ];
