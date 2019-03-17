@@ -2,7 +2,7 @@ import React from "react";
 import ContactInfo from "../components/Contact"
 import ContactNav from "../components/ContactNav"
 import Header from "../components/HeaderTwo"
-import Footer from "../components/mainTwo"
+import Footer from "../components/Footer"
 
 
 

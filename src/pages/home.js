@@ -3,6 +3,7 @@ import Main from "../components/mainTwo/index"
 import Nav from "../components/Nav"
 import Header from "../components/HeaderTwo"
 import MainImage from "../components/Home"
+import Footer from "../components/Footer"
 
 
 
@@ -13,6 +14,7 @@ function Home () {
         <Nav/>
         <MainImage/>
         <Main/>
+        <Footer/>
     </div>
     )
 }

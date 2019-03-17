@@ -27,7 +27,7 @@ class NavBar extends Component {
         <div className="col-md-4">
         </div>
           <div id="Nav" className="col-md-4">
-            <Navbar color="faded" className="navColor" light expand="sm">
+            <Navbar color="faded" className="navColor" light expand="md">
               <NavbarToggler onClick={this.toggleNavbar} />
               <Collapse isOpen={!this.state.collapsed} navbar>
                 <Nav navbar>

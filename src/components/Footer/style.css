@@ -1,0 +1,28 @@
+#footerContainer{
+    background-color: #ffe0cf;
+    border: solid black 20px;
+}
+
+.logoImg{
+    height: 30px;
+    width: auto;
+}
+
+.connectFooter{
+    height:30px;
+    width:auto;
+}
+
+li{
+    list-style:none !important;
+}
+
+#dogmatchFooter, #wordscapeFooter, #crystalFooter{
+    font-size: 10px;
+    color: gray;
+}
+
+#gtkm, #cm, #r{
+    font-size: 10px;
+    color: gray !important;
+}

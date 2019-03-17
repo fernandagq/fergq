@@ -2,7 +2,7 @@ import React from "react";
 import AboutInfo from "../components/About";
 import AboutNav from "../components/AboutNav"
 import Header from "../components/HeaderTwo"
-import Footer from "../components/mainTwo"
+import Footer from "../components/Footer"
 function About () {
     return(
         <div>
