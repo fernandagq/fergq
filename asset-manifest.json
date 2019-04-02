@@ -1,13 +1,13 @@
 {
   "main.css": "/fergq/static/css/main.60d849a3.chunk.css",
-  "main.js": "/fergq/static/js/main.5d41b628.chunk.js",
-  "main.js.map": "/fergq/static/js/main.5d41b628.chunk.js.map",
+  "main.js": "/fergq/static/js/main.fa57f800.chunk.js",
+  "main.js.map": "/fergq/static/js/main.fa57f800.chunk.js.map",
   "runtime~main.js": "/fergq/static/js/runtime~main.54bf4602.js",
   "runtime~main.js.map": "/fergq/static/js/runtime~main.54bf4602.js.map",
   "static/js/2.f35d0cab.chunk.js": "/fergq/static/js/2.f35d0cab.chunk.js",
   "static/js/2.f35d0cab.chunk.js.map": "/fergq/static/js/2.f35d0cab.chunk.js.map",
   "index.html": "/fergq/index.html",
-  "precache-manifest.5a4134f4db9955fe1c2b4388ce6ff2ef.js": "/fergq/precache-manifest.5a4134f4db9955fe1c2b4388ce6ff2ef.js",
+  "precache-manifest.17429a3fae84575f9e0798de25990c2b.js": "/fergq/precache-manifest.17429a3fae84575f9e0798de25990c2b.js",
   "service-worker.js": "/fergq/service-worker.js",
   "static/css/main.60d849a3.chunk.css.map": "/fergq/static/css/main.60d849a3.chunk.css.map",
   "static/media/style.css": "/fergq/static/media/img1.4f6baa20.jpg",
@@ -23,7 +23,7 @@
   "static/media/mysql.jpg": "/fergq/static/media/mysql.2be9414d.jpg",
   "static/media/node.jpg": "/fergq/static/media/node.84dae0c8.jpg",
   "static/media/react.jpg": "/fergq/static/media/react.1f27d280.jpg",
-  "static/media/resume.jpg": "/fergq/static/media/resume.412de2f7.jpg",
+  "static/media/resume.jpg": "/fergq/static/media/resume.c3ff327b.jpg",
   "static/media/skin.jpg": "/fergq/static/media/skin.9d048c60.jpg",
   "static/media/wordscrape.jpg": "/fergq/static/media/wordscrape.3cdaba20.jpg"
 }
